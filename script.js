@@ -1,0 +1,1 @@
+alert ('Por Favor, não sinta raiva de mim e não chore.')
